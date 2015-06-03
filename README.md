@@ -1,7 +1,7 @@
 # MotionDetector
 How to use a pyroelectric infrared sensor (PIR) to detect movement.
 
-![alt tag](https://github.com/adestefa/MotionDetector/blob/master/linearfresnel.gifpir2.jpg)
+![alt tag](https://github.com/adestefa/MotionDetector/blob/master/pir2.jpg)
 
 PIRs are basically made of a pyroelectric sensor that can detect levels of infrared radiation. They are often referred to as PIR, "Passive Infrared", "Pyroelectric", or "IR motion" sensors. Everything emits some low level radiation, the PIR sensor is designed to see this energy and has a simple way to use this to detect motion. The PIR sensor does not return distance to target, instead it compares two infrared images by splipting the sensor in half. Any difference between the heat signatures in both images will constitute movement and the sensor sends a high signal.
 
