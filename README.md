@@ -1,7 +1,7 @@
 # MotionDetector
 How to use a pyroelectric infrared sensor (PIR) to detect movement.
 
-![alt tag](https://github.com/adestefa/MotionDetector/pir2.jpg)
+![alt tag](https://github.com/adestefa/MotionDetector/blob/master/linearfresnel.gifpir2.jpg)
 
 PIRs are basically made of a pyroelectric sensor that can detect levels of infrared radiation. They are often referred to as PIR, "Passive Infrared", "Pyroelectric", or "IR motion" sensors. Everything emits some low level radiation, the PIR sensor is designed to see this energy and has a simple way to use this to detect motion. The PIR sensor does not return distance to target, instead it compares two infrared images by splipting the sensor in half. Any difference between the heat signatures in both images will constitute movement and the sensor sends a high signal.
 
@@ -11,7 +11,7 @@ When a warm body passes by the first half of the sensor it causes a positive dif
 
 They are great for seeing movement and are widely used in home spotlights and commercial automatic doors. The plastic window covering holds the real secret. It has multiple facets molded into it to consolidate and focus the scattered infrared energy onto the sensor.
 
-![alt tag](https://github.com/adestefa/MotionDetector/linearfresnel.gif) 
+![alt tag](https://github.com/adestefa/MotionDetector/blob/master/linearfresnel.gif) 
 
 Each individual facet is a Fresnel lens. They are famously used in lighthouses to direct and amplify light out. The Fresnel lens here is designed to amplify the scattered infrared energy in the opposite direction, from the room into the sensor by capturing and redirecting a larger area of energy than the actual sensor could read by itself.
 
