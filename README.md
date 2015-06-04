@@ -47,5 +47,5 @@ void loop(){
   }
 }
 ```
-
+![alt tag](https://github.com/adestefa/MotionDetector/blob/master/motionSensorCircuit.png)
 
